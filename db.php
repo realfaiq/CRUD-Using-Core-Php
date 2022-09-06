@@ -3,7 +3,7 @@
     $db_name = 'CRUD';
     $db_user = 'root';
     $db_host = 'localhost';
-    $db_password = '1947@Pakistan';
+    $db_password = ''; //Write your defined Password
 
     $connection = mysqli_connect($db_host, $db_user, $db_password, $db_name);
 
